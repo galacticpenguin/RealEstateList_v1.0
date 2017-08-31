@@ -1,9 +1,6 @@
 
 Ian Medina
-icm27@drexel.edu
-CS338:GUI, Assignment #1
-
-
+ianmed36@gmail.com
 
 
 Program Overview: 
@@ -14,8 +11,7 @@ created using Netbeans IDE. The program has also been exported as a .jar file to
 reduce the chances of running into an issue which can prevent the program from 
 runnning in TUX or in some machines.
 
-Source code can be found in ../RealEstateList/src folder.
-
+Source code can be found in ../src folder.
 
 
 *** How to Run *** IMPORTANT! PLEASE READ!
@@ -30,7 +26,7 @@ Source code can be found in ../RealEstateList/src folder.
 
 - To run outside tux, simply launch: 
 
-		RealEstateList.jar
+	RealEstateList.jar
 	- this can be located in the /dist directory in RealEstateList
 		or in the same location as the RealEstateList
 
@@ -60,16 +56,4 @@ Functions Overview:
 		- Select a list entry and click ">>" to move the entry to the table
 	- Move to List
 		- Select a row in the table and click "<<" to move the row in the the list
-
-
-Self Rating: 
-
-- Clean, logical visual layout and components: 2
-- Adding Items: 2
-- Removing Items: 2
-- Editing Items: 2
-- Error Checking: 1
-- Proper underlying data structures: 1
-- Robust to user functions: 2
-- Documentation: 2
 
